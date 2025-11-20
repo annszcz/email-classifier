@@ -1,0 +1,142 @@
+[
+  {
+    "email_id": 1,
+    "subject": "Błąd logowania do systemu",
+    "body": "Dzień dobry, nie mogę się zalogować do systemu. Po wpisaniu hasła wyskakuje błąd 'Invalid credentials'. Proszę o pomoc.",
+    "sender": "jan.kowalski@firma.pl",
+    "label": "IT"
+  },
+  {
+    "email_id": 2,
+    "subject": "Problem z fakturą",
+    "body": "Witam, otrzymałem fakturę nr 2024/11/123 z błędną kwotą. Zamiast 1000 zł jest 10000 zł. Proszę o korektę.",
+    "sender": "anna.nowak@klient.pl",
+    "label": "Księgowość"
+  },
+  {
+    "email_id": 3,
+    "subject": "Reklamacja towaru",
+    "body": "Dzień dobry, zakupiony produkt ma wadę. Opakowanie było uszkodzone przy dostawie. Chciałbym zwrócić towar i uzyskać zwrot pieniędzy.",
+    "sender": "piotr.wisniewski@email.com",
+    "label": "Obsługa Klienta"
+  },
+  {
+    "email_id": 4,
+    "subject": "Awaria serwera",
+    "body": "PILNE! Serwer produkcyjny nie odpowiada. Użytkownicy nie mogą się połączyć. Błąd 500 Internal Server Error.",
+    "sender": "admin@firma.pl",
+    "label": "IT"
+  },
+  {
+    "email_id": 5,
+    "subject": "Zapytanie o ofertę",
+    "body": "Witam, interesuje mnie Państwa oferta na usługi konsultingowe. Proszę o przesłanie cennika i warunków współpracy.",
+    "sender": "biuro@nowafirma.pl",
+    "label": "Sprzedaż"
+  },
+  {
+    "email_id": 6,
+    "subject": "Nieotrzymana płatność",
+    "body": "Dzień dobry, wykonałem przelew 5 dni temu, ale nadal nie widzę płatności na koncie. Numer przelewu: 12345/2024. Proszę o weryfikację.",
+    "sender": "klient@example.com",
+    "label": "Księgowość"
+  },
+  {
+    "email_id": 7,
+    "subject": "Brak dostępu do sieci VPN",
+    "body": "Witam, od wczoraj nie mogę połączyć się z VPN firmowym. Pojawia się komunikat 'Connection timeout'. Próbowałem z różnych lokalizacji.",
+    "sender": "pracownik@firma.pl",
+    "label": "IT"
+  },
+  {
+    "email_id": 8,
+    "subject": "Propozycja współpracy",
+    "body": "Szanowni Państwo, reprezentuję firmę zainteresowaną długoterminową współpracą. Chcielibyśmy umówić się na spotkanie w celu omówienia szczegółów.",
+    "sender": "partner@biznes.pl",
+    "label": "Sprzedaż"
+  },
+  {
+    "email_id": 9,
+    "subject": "Pytanie o status zamówienia",
+    "body": "Witam, zamówiłem produkt 2 tygodnie temu (zamówienie #8765) i nadal go nie otrzymałem. Kiedy mogę spodziewać się dostawy?",
+    "sender": "kupujacy@mail.com",
+    "label": "Obsługa Klienta"
+  },
+  {
+    "email_id": 10,
+    "subject": "Duplikacja faktur w systemie",
+    "body": "Dzień dobry, zauważyłem, że w systemie księgowym pojawiają się podwójne faktury. Faktury z numerami 100-105 są zduplikowane.",
+    "sender": "ksiegowosc@firma.pl",
+    "label": "Księgowość"
+  },
+  {
+    "email_id": 11,
+    "subject": "Nie działa drukarka",
+    "body": "Witam, drukarka w biurze na 3 piętrze nie drukuje. Lampka miga na czerwono. Próbowałem restart ale nic to nie dało.",
+    "sender": "biuro@firma.pl",
+    "label": "IT"
+  },
+  {
+    "email_id": 12,
+    "subject": "Chcę anulować subskrypcję",
+    "body": "Dzień dobry, chciałbym anulować moją subskrypcję. Konto: user12345. Proszę o potwierdzenie anulowania i zwrot środków za niewykorzystany okres.",
+    "sender": "uzytkownik@email.pl",
+    "label": "Obsługa Klienta"
+  },
+  {
+    "email_id": 13,
+    "subject": "Oferta dla nowych klientów",
+    "body": "Dzień dobry, czy oferujecie rabat dla nowych klientów? Jestem zainteresowany zakupem pakietu Enterprise dla mojej firmy.",
+    "sender": "dyrektor@startup.pl",
+    "label": "Sprzedaż"
+  },
+  {
+    "email_id": 14,
+    "subject": "Błąd w zestawieniu podatkowym",
+    "body": "Witam, w zestawieniu podatkowym za październik jest błąd w pozycji VAT. Suma się nie zgadza z moimi wyliczeniami. Proszę o weryfikację.",
+    "sender": "firma@kontrahent.pl",
+    "label": "Księgowość"
+  },
+  {
+    "email_id": 15,
+    "subject": "Produkt niezgodny z opisem",
+    "body": "Dzień dobry, otrzymany produkt jest niezgodny z opisem na stronie. Zamówiłem wersję PRO, a otrzymałem BASIC. Proszę o wymianę.",
+    "sender": "niezadowolony@klient.com",
+    "label": "Obsługa Klienta"
+  },
+  {
+    "email_id": 16,
+    "subject": "Problem z bazą danych",
+    "body": "PILNE: Baza danych działa bardzo wolno. Zapytania, które wcześniej trwały sekundy, teraz trwają minuty. Proszę o pomoc techniczną.",
+    "sender": "developer@firma.pl",
+    "label": "IT"
+  },
+  {
+    "email_id": 17,
+    "subject": "Zapytanie o demo produktu",
+    "body": "Witam, chciałbym umówić prezentację demo Państwa produktu. Jestem decydentem w firmie 200-osobowej szukającej nowego CRM.",
+    "sender": "ceo@duza-firma.pl",
+    "label": "Sprzedaż"
+  },
+  {
+    "email_id": 18,
+    "subject": "Faktura VAT niezgodna z zamówieniem",
+    "body": "Dzień dobry, na fakturze VAT są inne pozycje niż w zamówieniu. Proszę o wystawienie korekty lub faktury zastępczej.",
+    "sender": "zaopatrzenie@firma.pl",
+    "label": "Księgowość"
+  },
+  {
+    "email_id": 19,
+    "subject": "Opóźniona dostawa",
+    "body": "Witam, moja paczka miała przyjść 3 dni temu zgodnie z numerem śledzenia. Nadal nic nie dotarło. Co się dzieje z moim zamówieniem?",
+    "sender": "klient123@gmail.com",
+    "label": "Obsługa Klienta"
+  },
+  {
+    "email_id": 20,
+    "subject": "Hasło wygasło - nie mogę się zalogować",
+    "body": "Dzień dobry, moje hasło wygasło i system nie pozwala mi go zresetować. Dostaję błąd przy próbie zmiany hasła. Potrzebuję dostępu pilnie.",
+    "sender": "uzytkownik@firma.pl",
+    "label": "IT"
+  }
+]
